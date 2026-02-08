@@ -1,1 +1,3 @@
-Latest numbered version usually the best one ! Thanks. 
+Latest numbered version usually the best one !
+
+ghc -O2 <filename>
